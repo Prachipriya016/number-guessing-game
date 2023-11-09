@@ -1,11 +1,22 @@
-# Number Guessing Game
+Number Guessing Game
+This is a simple web-based number guessing game where players can guess a random number between 1 and 100. They have 10 attempts to guess the correct number.
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Dev_Element_PP/pen/ExrmxXo](https://codepen.io/Dev_Element_PP/pen/ExrmxXo).
+How to Play
+Open the game in a web browser.
 
-This pen allows you to use all your favourite console functions right in CodePen: `console.log`, `console.info`, `console.warn`, `console.error`, and `console.clear` are supported.
+Enter your guess into the input field.
 
-To scroll the console to the bottom as messages are printed use the `console.follow` function.
+Click the "Submit Guess" button to submit your guess.
 
-Fork this pen to quickly create a new pen which is pre-configured for JavaScript console output.
+You'll receive feedback on whether your guess is too high or too low.
 
-If you want to learn how this works then take a look at [this pen](http://codepen.io/nullobject/pen/cngzI).
+Keep guessing until you find the correct number or until you run out of attempts.
+
+If you run out of attempts, the game will reveal the correct number.
+
+You can start a new game at any time by clicking the "Start New Game" button.
+
+Technologies Used
+HTML
+CSS
+JavaScript
