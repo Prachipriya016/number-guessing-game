@@ -1,3 +1,5 @@
+
+Project Title
 Number Guessing Game
 This is a simple web-based number guessing game where players can guess a random number between 1 and 100. They have 10 attempts to guess the correct number.
 
@@ -20,3 +22,8 @@ Technologies Used
 HTML
 CSS
 JavaScript
+
+
+Live Project
+https://number-guessing-game-beta.vercel.app/
+
